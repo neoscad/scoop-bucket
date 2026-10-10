@@ -1,17 +1,17 @@
 {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "description": "OpenSCAD-compatible programmable solid CAD (command line, MCP and language servers)",
     "homepage": "https://neoscad.org",
     "license": "GPL-2.0-or-later",
     "##": "Filled at each release from the template packaging/scoop/neoscad.json in github.com/neoscad/neoscad (scripts/release/fill-manifests.sh): change the template, not a filled copy.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/neoscad/neoscad/releases/download/v0.6.0/neoscad-cli-x86_64-pc-windows-msvc.zip",
-            "hash": "0f7052dc7b830c1237f9d6f2da464e9299751141d10afa143ccfafbccaeb5573"
+            "url": "https://github.com/neoscad/neoscad/releases/download/v0.6.1/neoscad-cli-x86_64-pc-windows-msvc.zip",
+            "hash": "1410b8739f23a89dc7930398587f82ccc391d3285a8af537d1392f96dc874022"
         },
         "arm64": {
-            "url": "https://github.com/neoscad/neoscad/releases/download/v0.6.0/neoscad-cli-aarch64-pc-windows-msvc.zip",
-            "hash": "b489d351fa8fd5960ff12bdadeb36c6fdc38d015534802d1a80b6b0d7e9c7856"
+            "url": "https://github.com/neoscad/neoscad/releases/download/v0.6.1/neoscad-cli-aarch64-pc-windows-msvc.zip",
+            "hash": "c3f9c24069053e3e637afad41ec091d1fc7569003eb1e0f89340c86461445620"
         }
     },
     "bin": "neoscad.exe",
